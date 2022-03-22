@@ -9,4 +9,3 @@ class Contoh1 extends CI_Controller
         echo "Nama saya Muhamad Agung Samudra
             Saya tinggal di daerah Depok - Jawa Barat
             Olahraga yang saya sukai adalah Basket";
-    }
